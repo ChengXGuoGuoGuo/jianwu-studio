@@ -4,6 +4,7 @@
 
 - 商品 ID：`1095845150914`
 - 商品链接：https://www.goofish.com/item?id=1095845150914&categoryId=50023914
+- 独立作品页：https://chengxguoguoguo.github.io/jianwu-studio/
 - 发布时间：2026-11-02 03:40 左右
 - 首次核对：2026-11-02 03:47:27 +08:00
 - 状态：在售

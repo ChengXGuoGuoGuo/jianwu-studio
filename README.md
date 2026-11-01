@@ -20,6 +20,8 @@
 
 ## 当前资产
 
+- 公开作品页：https://chengxguoguoguo.github.io/jianwu-studio/
+- GitHub 仓库：https://github.com/ChengXGuoGuoGuo/jianwu-studio
 - 闲鱼线上商品：https://www.goofish.com/item?id=1095845150914&categoryId=50023914
 - `index.html`：可本地打开、可部署到静态托管的服务页。
 - `assets/images/`：无品牌概念作品图。

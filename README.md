@@ -25,9 +25,9 @@
 - 闲鱼线上商品：https://www.goofish.com/item?id=1095845150914&categoryId=50023914
 - `index.html`：可本地打开、可部署到静态托管的服务页。
 - `assets/images/`：无品牌概念作品图。
-- `assets/marketing/`：闲鱼 1:1 首图、作品图、价格图、流程图，以及小红书 3:4 封面。
+- `assets/marketing/`：闲鱼 1:1 首图、作品图、价格图和流程图。
 - `content/xianyu-listing.md`：闲鱼标题、详情和发布设置。
-- `content/xiaohongshu-posts.md`：首发三条笔记。
+- `content/xiaohongshu-posts.md`：停用素材，不属于当前渠道。
 - `content/reply-scripts.md`：询单、报价、拒绝和交付话术。
 - `ops/order-playbook.md`：接单红线、报价、验收和隐私规则。
 - `ops/first-sale-sprint.md`：第一周拿到首笔真实订单的执行表。
@@ -48,12 +48,14 @@ python -m http.server 8080
 1. 用 39 元首单降低第一次尝试门槛。
 2. 用 1:1 / 3:4 双尺寸、先小样和明确修改边界建立信任。
 3. 单张成交后转 129 元三张套图和 299 元详情页。
-4. 通过闲鱼承接明确购买意图，通过小红书展示过程和判断能力。
+4. 通过闲鱼承接明确购买意图，通过独立作品页承接搜索和分享。
 5. 所有作品先做无品牌样片，不冒充真实客户案例。
 
 ## 现在缺什么
 
 商品已经通过闲鱼审核并处于在售状态。下一步是让链接进入搜索结果，同时对真实询单做快速、合规的响应。
+
+当前不运营小红书，不创建新账号。
 
 ## 收入口径
 
